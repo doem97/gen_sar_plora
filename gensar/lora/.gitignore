@@ -1,0 +1,105 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+# Usually, these artifacts are added by a PyInstaller build
+*.manifest
+*.spec
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Environments
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# SageMath parsed files
+*.sage.py
+
+# Images, videos and dataset files (consider storing large files outside of Git)
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.tiff
+*.avi
+*.mp4
+*.webm
+*.mkv
+*.csv
+*.json
+*.zip
+*.tar
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+
+# Common directories for datasets and logs in CV projects
+data/
+logs/
+models/
+outputs/
+
+# Backup files
+*.bak
+
+# Other
+*.log
+.DS_Store
+
+.data/
+.output/
+.data
+.output
+/data
+/output
+wandb/
+diffusers/
+diffusers

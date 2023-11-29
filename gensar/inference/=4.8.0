@@ -1,0 +1,10 @@
+Requirement already satisfied: opencv-python in /opt/conda/envs/sdnew/lib/python3.10/site-packages (4.7.0.72)
+Collecting opencv-python
+  Using cached opencv_python-4.8.0.76-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (61.7 MB)
+Requirement already satisfied: numpy>=1.17.0 in /opt/conda/envs/sdnew/lib/python3.10/site-packages (from opencv-python) (1.23.5)
+Installing collected packages: opencv-python
+  Attempting uninstall: opencv-python
+    Found existing installation: opencv-python 4.7.0.72
+    Uninstalling opencv-python-4.7.0.72:
+      Successfully uninstalled opencv-python-4.7.0.72
+Successfully installed opencv-python-4.8.0.76

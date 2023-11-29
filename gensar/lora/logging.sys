@@ -1,0 +1,8 @@
+LoRA params for rank 1: 199296
+LoRA params for rank 2: 398592
+LoRA params for rank 4: 797184
+LoRA params for rank 8: 1594368
+LoRA params for rank 16: 3188736
+LoRA params for rank 32: 6377472
+LoRA params for rank 64: 12754944
+LoRA params for rank 128: 25509888

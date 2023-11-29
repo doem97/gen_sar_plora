@@ -1,0 +1,48 @@
+# Ignore system and editor files
+.DS_Store
+*.swp
+*.swo
+
+# Ignore Python build and cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc.pytest_cache/
+
+# Ignore Python virtual environments
+venv/
+*.venv/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore output, log, and temporary files
+outputs/
+**output**
+output
+logs/
+*.log
+*.log.txt
+
+# Ignore symlinks
+mmcls_output/
+
+# Ignore other temporary files and folders
+*.tmp
+*.bak
+*~
+.cache/
+
+# Ignore package metadata and build files
+*.egg-info/
+dist/
+build/
+
+# Ignore wandb folder
+wandb/
+wandb
+
+results/
+/outputs
+/wandb

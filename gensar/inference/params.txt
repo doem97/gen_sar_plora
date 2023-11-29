@@ -1,0 +1,2 @@
+SAR image of fishing ship
+Steps: 30, Sampler: DPM++ 2M Karras, CFG scale: 7.5, Seed: 45, Size: 512x512, Model hash: 6ce0161689, Model: v1-5-pruned-emaonly, Version: v1.6.0

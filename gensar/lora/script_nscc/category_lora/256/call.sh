@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES="0,1,2,3" CATEGORY="dredger" LORA_RANK=4 CTRL_PORT=29500 MAX_STEPS=2000 BATCH_SIZE=8 ./script/category_lora/256/fusrs_category_rank.sh

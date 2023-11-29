@@ -1,0 +1,7 @@
+{model}_[model setting]_{backbone}_{neck}_[norm setting]_[misc]_[gpu x batch_per_gpu]_{schedule}_{dataset}
+
+For example, the training command of Faster R-CNN with ResNet-50-FPN is:
+res50_fpn_1x_coco.py
+
+For example, the training command of Mask R-CNN with ResNet-50-FPN, with 8 GPUs and 2 images per GPU, with 3x schedule, is:
+res50_fpn_8xb2_3x_coco.py

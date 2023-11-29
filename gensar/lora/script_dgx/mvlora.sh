@@ -1,0 +1,8 @@
+mv /workspace/dso/gensar/lora/output/sarlora/256/rank/256_fp32_s20000+100e_wp0_bs32_lr1e-03_rank1/checkpoint-20000/pytorch_model.safetensors ./256_fusrsv2_100e_rank1.safetensors
+mv /workspace/dso/gensar/lora/output/sarlora/256/rank/256_fp32_s20000+100e_wp0_bs32_lr1e-03_rank2/checkpoint-20000/pytorch_model.safetensors ./256_fusrsv2_100e_rank2.safetensors
+mv /workspace/dso/gensar/lora/output/sarlora/256/rank/256_fp32_s20000+100e_wp0_bs32_lr1e-03_rank4/checkpoint-20000/pytorch_model.safetensors ./256_fusrsv2_100e_rank4.safetensors
+mv /workspace/dso/gensar/lora/output/sarlora/256/rank/256_fp32_s20000+100e_wp0_bs32_lr1e-03_rank8/checkpoint-20000/pytorch_model.safetensors ./256_fusrsv2_100e_rank8.safetensors
+mv /workspace/dso/gensar/lora/output/sarlora/256/rank/256_fp32_s20000+100e_wp0_bs32_lr1e-03_rank16/checkpoint-20000/pytorch_model.safetensors ./256_fusrsv2_100e_rank16.safetensors
+mv /workspace/dso/gensar/lora/output/sarlora/256/rank/256_fp32_s20000+100e_wp0_bs32_lr1e-03_rank32/checkpoint-20000/pytorch_model.safetensors ./256_fusrsv2_100e_rank32.safetensors
+mv /workspace/dso/gensar/lora/output/sarlora/256/rank/256_fp32_s20000+100e_wp0_bs32_lr1e-03_rank64/checkpoint-20000/pytorch_model.safetensors ./256_fusrsv2_100e_rank64.safetensors
+mv /workspace/dso/gensar/lora/output/sarlora/256/rank/256_fp32_s20000+100e_wp0_bs32_lr1e-03_rank128/checkpoint-20000/pytorch_model.safetensors ./256_fusrsv2_100e_rank128.safetensors

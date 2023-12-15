@@ -17,8 +17,10 @@
 
 
 <div>
-Code and datasets for the paper "Non-Visible Light Data Synthesis: a Case Study for Synthetic Aperture Radar Imagery" (more update pending).
+Code and datasets for the paper "Non-Visible Light Data Synthesis: a Case Study for Synthetic Aperture Radar Imagery".
 </div>
+
+### *Please note: more updates are pending.*
 
 # 🧭 Introduction
 
